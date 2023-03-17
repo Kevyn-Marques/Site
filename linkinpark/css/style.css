@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+  margin:0 auto;
+  padding:0;
+  box-sizing:border-box;
+  
+ }
+
+#cor{
+  ;
+  background-color:black;
+    }
+#inicio{
+    font-family:'Open Sans',sans-serif;
+    color:Ghostwhite;
+    text-align: center;
+    justify-content: space-between;
+    font-size: 40px;
+       }
+#texto1{
+      padding:20px;
+       text-align:center;
+       position:center;
+        color:ghostwhite;
+        font-size:30px;
+        space-between:20px
+      }
+#texto2{
+      padding:0;
+       display:flex;
+       text-align:center;
+        color:ghostwhite;
+        font-size: 25px;
+        space-between:20px
+       }    
+#menu{
+  font-family:'Open Sans',sans-serif;
+  list-style:none;
+  padding:0;
+  background-color:black;
+     }
+#menu li{
+  display:inline;
+        }
+#menu li a{
+  font-family: 'Open Sans',sans-serif;
+  font-size:40px;
+  display:inline;
+  color:ghostwhite;
+  padding:20px;
+  text-decoration:none;
+  display:inline-block;
+  transition:background .3s;
+          }
+#menu li a:hover{
+  background-color: blueviolet
+                }
+h1{
+  text-align:center;
+  font-size:40px;
+  }
+h2{
+  text-align:center;
+  font-size:40px;
+  }
+  
+.fotos{
+  width:500px;
+  display:flex;
+  justify-content:center;
+      }
+p{
+  text-align:center;
+  font-size:30px;
+  }
+iframe{
+  display:flex;
+  justify-content:center;
+      }
+.m2{
+  font-family:'Open Sans',sans-serif;
+  list-style:none;
+  padding:0;
+  background-color:black;
+   }
+.m2 li{
+  display:inline;
+      }
+.m2 li a{
+  font-family: 'Open Sans',sans-serif;
+  font-size:40px;
+  display:inline;
+  color:ghostwhite;
+  padding:20px;
+  text-decoration:none;
+  display:inline-block;
+  transition:background .3s;
+        }
+.m2 li a:hover{
+  background-color: blueviolet
+              }
+table{
+  width:100%;
+    }
+table,th,td{
+  border:1px solid black;
+  border-collapse:collapse;
+  padding:5px 2px 5px 2px;
+  font-size:30px;
+     }
+#banner{
+  width:1400px;
+  display:flex;
+  justify-content:center;
+       }
+#membro{
+  display:flex;
+  justify-content:center;
+}
+.txt{
+    font-family:'Open Sans',sans-serif;
+    color:Ghostwhite;
+    text-align: center;
+    justify-content: space-between;
+    font-size: 40px;
+       }
+.txt2{
+      padding:20px;
+       text-align:center;
+       position:center;
+        color:ghostwhite;
+        font-size:30px;
+        space-between:20px
+      }
+.cred a{
+  font-family: 'Open Sans',sans-serif;
+  font-size:35px;
+  color:black;
+  text-decoration:none;
+  list-style:none;
+}
+.cred a:hover{
+  color:blueviolet;
+}
+ 
+
+
+
+
